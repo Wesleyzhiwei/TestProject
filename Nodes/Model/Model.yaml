@@ -1,2 +1,11 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Object1
+  Type: BaseObjectType
+  Children:
+  - Name: Alias1
+    Id: g=526845861fa7d63dd8186895f47dca44
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Alias1"
