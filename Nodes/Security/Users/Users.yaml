@@ -1,3 +1,7 @@
 Name: Users
 Id: g=b3512476dd1eca973712cf0e9a45347b
 Type: UsersCategoryFolder
+Children:
+- Name: User1
+  Id: g=b1e59e157c657d247cfb659890850131
+  Type: UserType

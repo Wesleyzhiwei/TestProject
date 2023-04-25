@@ -1,2 +1,15 @@
 Name: Converters
+Id: g=7ae6ef2cf267763625dc1a08164e9de5
 Type: ConvertersCategoryFolder
+Children:
+- Name: EngineeringUnitConverter1
+  Id: g=94ad586b5651bec2cf99f7355a511f6d
+  Supertype: EUConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Source
+    Id: g=b6f0e87af87a5af90b074dd7fdd94f07
+    Type: BaseDataVariableType
+    DataType: Number
+    ReferenceType: HasSource
+    Value: {"Type":11,"Body":0.0}

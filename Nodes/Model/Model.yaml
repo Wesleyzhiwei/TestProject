@@ -1,7 +1,9 @@
 Name: Model
+Id: g=9918340247bfffbe04c52298f6ea30d4
 Type: ModelCategoryFolder
 Children:
 - Name: Object1
+  Id: g=711df78c5004c37f0909b82cb625b32f
   Type: BaseObjectType
   Children:
   - Name: Alias1

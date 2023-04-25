@@ -1,2 +1,7 @@
 Name: NetLogic
+Id: g=4fbf73956ee04a58dff4b823817d64d3
 Type: NetLogicCategoryFolder
+Children:
+- Name: RuntimeNetLogic1
+  Id: g=738853b8a10e66250d5fc2a6fdd27915
+  Type: NetLogic
